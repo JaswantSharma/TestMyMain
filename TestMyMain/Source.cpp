@@ -25,6 +25,7 @@ int main()
 	cout << "Git workbranch" << endl;
 	cout << "Git workbranch" << endl;
 	cout << "Another change" << endl;
+	cout << "T0O many tries " << endl;
 	cout << "Git changed to see changes" << endl;
 	Animals *a;
 	Animals b;
