@@ -22,6 +22,7 @@ public:
 
 int main()
 {
+	cout << "Another change" << endl;
 	cout << "Git changed to see changes" << endl;
 	Animals *a;
 	Animals b;
